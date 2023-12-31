@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **floppa**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=github-readme-stats&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,3 +44,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chonapatcc&theme=dark" alt="chonapatcc" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=github-readme-stats&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/github-readme-stats)
