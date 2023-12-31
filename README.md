@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/NxjWrSr.gif">
+
 
 - 🔭 I’m currently working on **floppa**
 
@@ -15,6 +15,8 @@
 - 👯 I’m looking to collaborate on **floppa**
 
 - 🤝 I’m looking for help with **floppa**
+
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/NxjWrSr.gif">
 
 - 👨‍💻 All of my projects are available at [floppa](floppa)
 
