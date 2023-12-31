@@ -1,10 +1,12 @@
 [![MasterHead](https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-6.gif)]
 <h1 align="center">Hi 👋, I'm Chonapatcc</h1>
 <h3 align="center">Floppa</h3>
-<img align="right" alt="Coding" width="800" src="https://i.imgur.com/NxjWrSr.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chonapatcc&label=Floppa&color=13e736&style=flat" alt="chonapatcc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" /></a> </p>
+
+<img align="right" alt="Coding" width="800" src="https://i.imgur.com/NxjWrSr.gif">
 
 - 🔭 I’m currently working on **floppa**
 
