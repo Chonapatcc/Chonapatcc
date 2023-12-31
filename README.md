@@ -6,10 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chonapatcc&label=Floppa&color=13e736&style=flat" alt="chonapatcc" /> </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=github-readme-stats)](https://github.com/Chonapatcc/github-readme-stats)
-
-
-
 - 🔭 I’m currently working on **floppa**
 
 - 🌱 I’m currently learning **floppa**
@@ -31,6 +27,8 @@
 - 📄 Know about my experiences [floppa](floppa)
 
 - ⚡ Fun fact **floppa**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=github-readme-stats&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70")](https://github.com/Chonapatcc/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
