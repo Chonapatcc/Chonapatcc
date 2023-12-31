@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chonapatcc&label=Floppa&color=13e736&style=flat" alt="chonapatcc" /> </p>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=github-readme-stats)](https://github.com/Chonapatcc/github-readme-stats)
 
 
 
@@ -18,13 +18,11 @@
 
 - 👯 I’m looking to collaborate on **floppa**
 
-
-
 - 🤝 I’m looking for help with **floppa**
 
 - 👨‍💻 All of my projects are available at [floppa](floppa)
 
-- 📝 I regularly write articles on [floppa](floppa)
+- 📝 I regularly write articles on [floppa](floppa)	
 
 - 💬 Ask me about **floppa**
 
