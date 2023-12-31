@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chonapatcc&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonapatcc&show_icons=true&theme=tokyonight&title_color=000000&text_color=000000&bg_color=00ff4c&locale=en" alt="chonapatcc" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonapatcc&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" /></a> </p>
 
