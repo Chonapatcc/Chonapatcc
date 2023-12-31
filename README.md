@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **floppa**
 
-<img align="right" alt="Coding" width="500" src="https://i.imgur.com/NxjWrSr.gif">
+<img align="right" alt="Coding" width="600" src="https://i.imgur.com/NxjWrSr.gif">
 
 - 🤝 I’m looking for help with **floppa**
 
