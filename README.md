@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" /></a> </p>
 
-<img align="right" alt="Coding" width="800" src="https://i.imgur.com/NxjWrSr.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/NxjWrSr.gif">
 
 - 🔭 I’m currently working on **floppa**
 
