@@ -47,8 +47,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=github-readme-stats&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=Cplusplus2023&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/Cplusplus2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=Cplusplus2023&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/Cplusplus2023)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=C&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=C&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/C)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=Python2023&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/Python2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chonapatcc&repo=Python2023&bg_color=35,4158d0,c850c0,ffcc70)](https://github.com/Chonapatcc/Python2023)
