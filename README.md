@@ -27,15 +27,9 @@
 - 📄 Know about my experiences [floppa](floppa)
 
 - ⚡ Fun fact **floppa**
-<--START_SECTION:waka-->
-{
-- uses: anmol098/waka-readme-stats@master
-  with:
-      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      SHOW_OS: "False"
-      SHOW_PROJECTS: "False"}
-<--END_SECTION:waka-->
+
+[![wakatime](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5/project/018cc59e-2baa-466a-8b24-b93ce9836f41.svg)](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5/project/018cc59e-2baa-466a-8b24-b93ce9836f41)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
