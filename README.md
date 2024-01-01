@@ -28,25 +28,7 @@
 
 - ⚡ Fun fact **floppa**
 
-<!--START_SECTION:waka-->
-<name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_1f543016-fdc2-4019-9470-26c116f6a288 }}
-          GH_TOKEN: ${{ secrets.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 }}>
-
-<!--END_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chonapatcc)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
