@@ -28,13 +28,13 @@
 
 - ⚡ Fun fact **floppa**
 <--START_SECTION:waka-->
-
+{
 - uses: anmol098/waka-readme-stats@master
   with:
       WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       SHOW_OS: "False"
-      SHOW_PROJECTS: "False"
+      SHOW_PROJECTS: "False"}
 <--END_SECTION:waka-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
