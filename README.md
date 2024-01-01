@@ -28,22 +28,12 @@
 
 - ⚡ Fun fact **floppa**
 
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.waka_35158f03-62c1-494e-9b37-db8143954b01 }}
-          GH_TOKEN: ${{ secrets.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 }}
+- uses: anmol098/waka-readme-stats@master
+  with:
+      WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      SHOW_OS: "False"
+      SHOW_PROJECTS: "False"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
