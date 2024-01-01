@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **floppa**
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chonapatcc)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chonapatcc)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
