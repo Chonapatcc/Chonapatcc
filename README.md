@@ -28,20 +28,22 @@
 
 - ⚡ Fun fact **floppa**
 
-🕑︎ Time Zone: Asia/Kolkata
+name: Waka Readme
 
-💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ██████████████████░░░░░░░   71.48 % 
-JSON                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-🔥 Editors: 
-WebStorm                 3 hrs 29 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.00 % 
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.<waka_35158f03-62c1-494e-9b37-db8143954b01> }}
+          GH_TOKEN: ${{ secrets.<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> }}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
