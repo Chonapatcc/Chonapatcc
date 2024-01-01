@@ -29,7 +29,7 @@
 - ⚡ Fun fact **floppa**
 
 <!--START_SECTION:waka-->
-name: Waka Readme
+<name: Waka Readme
 
 on:
   schedule:
@@ -44,7 +44,7 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.waka_1f543016-fdc2-4019-9470-26c116f6a288 }}
-          GH_TOKEN: ${{ secrets.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 }}
+          GH_TOKEN: ${{ secrets.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 }}>
 
 <!--END_SECTION:waka-->
 
