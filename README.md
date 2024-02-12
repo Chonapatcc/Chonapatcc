@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chonapatcc&label=Floppa&color=13e736&style=flat" alt="chonapatcc" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5/project/018cc59e-2baa-466a-8b24-b93ce9836f41.svg)](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5/project/018cc59e-2baa-466a-8b24-b93ce9836f41)
+[![wakatime](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5.svg)](https://wakatime.com/@018cc044-4476-4674-b4d5-495d0e687ac5)
 
 - 🔭 I’m currently working on **floppa**
 
