@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **floppa**
 
-<img align="right" alt="Coding" width="500" src="https://i.imgur.com/NxjWrSr.gif">
+<img align="right" alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/439486872913402347/1DC919B942C2C26FA9ADEC93D5975D3791BEC265/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 - 👯 I’m looking to collaborate on **floppa**
 
