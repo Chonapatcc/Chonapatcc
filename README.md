@@ -1,112 +1,89 @@
-<h3 align="center"><img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-6.gif" alt="chonapatcc" /></h3>
-
-
-<h1 align="center">Hi 👋, I'm Chonapatcc</h1>
-<h3 align="center">Floppa</h3>
+<h1 align="center">
+  <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-6.gif" alt="chonapatcc" width="200" /> 
+  <br>
+  Hi 👋, I'm Chonapatcc! 
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chonapatcc&label=Floppa&color=13e736&style=flat" alt="chonapatcc" /> </p>
 
 [![wakatime](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5.svg)](https://wakatime.com/@018cc044-4476-4674-b4d5-495d0e687ac5)
 
-- 🔭 I’m currently working on **floppa**
-
-- 🌱 I’m currently learning **floppa**
-
-<img align="right" alt="Coding" width="500" src="https://steamuserimages-a.akamaihd.net/ugc/439486872913402347/1DC919B942C2C26FA9ADEC93D5975D3791BEC265/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-
-- 👯 I’m looking to collaborate on **floppa**
-
-- 🤝 I’m looking for help with **floppa**
-
-- 👨‍💻 All of my projects are available at [floppa](floppa)
-
-- 📝 I regularly write articles on [floppa](floppa)	
-
-- 💬 Ask me about **floppa**
-
-- 📫 How to reach me **chonapatcz@gmail.com**
-
-- 📄 Know about my experiences [floppa](floppa)
-
-- ⚡ Fun fact **floppa**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I'm a passionate developer who loves turning code into creative solutions. 
+  I'm currently exploring the world of [-], 
+  and I'm always eager to learn new things!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<hr>
 
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
+## 🚀 I'm Currently Working On:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=chonapatcc&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" /></p>
+- [-]
+- [-]
 
+## 🌱 I'm Currently Learning:
 
+- [-]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonapatcc&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" /></p>
+## 👯 I'm Looking to Collaborate On:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" /></a> </p>
+- [-]
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chonapatcc&theme=dark" alt="chonapatcc" /></p>
+## 🤝 I'm Looking for Help With:
 
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/thumbnail/floppa-rotation-head-banging-caracal-fy171a8ukh5prkud.gif">
+- [-]
 
+## 💻 My Tech Stack:
+
+<p align="left"> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a> 
+</p>
+
+## 📫 Connect with Me:
+
+<p align="center">
+  <a href="[Your LinkedIn Profile]" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> 
+  <a href="[Your Twitter Profile (if you have one)]" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a> 
+</p>
+
+<hr>
+
+## 😄 Fun Fact:
+
+[Share a fun fact about yourself!]
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chonapatcc&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonapatcc&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" /> 
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" />
+  </a> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chonapatcc&theme=dark" alt="chonapatcc" />
+</p>
