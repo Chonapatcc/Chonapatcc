@@ -1,39 +1,38 @@
 <h1 align="center">
   <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-6.gif" alt="chonapatcc" width="200" /> 
   <br>
-  Hi 👋, I'm Chonapatcc! 
-</h1>
+  Hi 👋, I'm <a href="[Your Website/Portfolio (optional)]">Chonapatcc</a>! 
+</h1> 
 
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chonapatcc&label=Floppa&color=13e736&style=flat" alt="chonapatcc" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5.svg)](https://wakatime.com/@018cc044-4476-4674-b4d5-495d0e687ac5)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+
+<p align="center"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+  <img src="https://profile-counter.glitch.me/Chonaatcc/count.svg"/>
 
 <p align="center">
+
+<p align="center"> 
   I'm a passionate developer who loves turning code into creative solutions. 
-  I'm currently exploring the world of [-], 
-  and I'm always eager to learn new things!
+  I'm currently exploring the world of [mention specific areas/technologies you're excited about], 
+  and I'm always eager to learn new things! 🚀
 </p>
 
 <hr>
 
-## 🚀 I'm Currently Working On:
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=f0f000)](https://open.spotify.com/track/5urVDJJONveZJ7QVkmeIDx?si=b903500ba3d44f8f)
+</div>
 
-- [-]
-- [-]
 
-## 🌱 I'm Currently Learning:
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=XJzFNiSS-AI)git
 
-- [-]
-
-## 👯 I'm Looking to Collaborate On:
-
-- [-]
-
-## 🤝 I'm Looking for Help With:
-
-- [-]
-
-## 💻 My Tech Stack:
+## ✨  My Skills  ✨
 
 <p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
@@ -45,21 +44,18 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a> 
+  <!-- Add more of your tech skills here! -->
 </p>
 
-## 📫 Connect with Me:
+<hr>
+
+## 🔥 My Stats 🔥
+
+<!-- Stats go here! -->
+
+<hr>
+
+## 📫  Let's Connect!  
 
 <p align="center">
   <a href="[Your LinkedIn Profile]" target="_blank" rel="noreferrer">
@@ -74,16 +70,38 @@
 
 ## 😄 Fun Fact:
 
-[Share a fun fact about yourself!]
+[Share a fun fact about yourself - it makes you more memorable!]
+
+## 🔥 My Stats 🔥
+
+<p align="center">
+  <!-- WakaTime Weekly Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chonapatcc&layout=compact&show_lines_of_code=true&theme=react" alt="My Coding Journey" width="45%"> 
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chonapatcc&hide=jupyter%20notebook&langs_count=8&show_icons=true&theme=react&layout=compact" alt="chonapatcc" width="45%">
+</p>
 
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chonapatcc&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonapatcc&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=35,4158d0,c850c0,ffcc70" alt="chonapatcc" /> 
+  <!-- GitHub Stats Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chonapatcc&show_icons=true&theme=react" alt="chonapatcc" width="45%">
+
+   <!-- GitHub Streak Stats  -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chonapatcc&theme=react" alt="chonapatcc" width="45%"> 
 </p>
 
 <p align="center">
+  <!-- GitHub Profile Trophy - No theme option for this one -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=chonapatcc" alt="chonapatcc" />
   </a> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chonapatcc&theme=dark" alt="chonapatcc" />
+  
+  <!--  WakaTime Badge  -->
+  <a href="https://wakatime.com/@018cc044-4476-4674-b4d5-495d0e687ac5"> 
+    <img src="https://wakatime.com/badge/user/018cc044-4476-4674-b4d5-495d0e687ac5.svg" alt="wakatime"/>
+  </a>
+</p>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
