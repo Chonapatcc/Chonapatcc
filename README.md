@@ -27,7 +27,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,firebase,md,git,github,vscode,jest,styledcomponents,postman,stackoverflow&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=bash,blender,c,cs,cpp,css,discord,docker,eclipse,figma,flutter,gcp,git,github,gmail,gradle,html,idea,instagram,java,js,kali,kotlin,linkedin,linux,lua,md,maven,notion,npm,opencv,ps,powershell,py,pytorch,robloxstudio,stackoverflow,svg,tensorflow,twitter,ubuntu,unity,unreal,vim,visualstudio,vscode,windows&perline=13)](#)
 
 <div align="center">
   <a href="https://open.spotify.com/track/5urVDJJONveZJ7QVkmeIDx?si=b903500ba3d44f8f">
