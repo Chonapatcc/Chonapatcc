@@ -31,7 +31,7 @@
     <img alt="Coding" width="200" src="https://media1.tenor.com/m/9UkMO73T_W4AAAAC/anna-yanami-yanami-anna.gif">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-    <a href="http://jrohit.com.np" target="_blank">
+    <a href="https://github.com/Chonapatcc" target="_blank">
         <img src="https://github-widgetbox.vercel.app/api/profile?username=Chonapatcc&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
   
