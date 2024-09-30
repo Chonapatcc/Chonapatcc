@@ -2,6 +2,7 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">
   <img src="https://usagif.com/wp-content/uploads/2022/hqgif/anya-forger-spy-family-acegif-6.gif" alt="chonapatcc" width="200" /> 
@@ -23,6 +24,16 @@
   </a>
 
 <p align="center">
+
+<p align="center">
+  <a href="https://github.com/Chonapatcc" target="_blank">
+        <p align="center">
+    <img alt="Coding" width="200" src="https://media1.tenor.com/m/9UkMO73T_W4AAAAC/anna-yanami-yanami-anna.gif">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
+    <a href="http://jrohit.com.np" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=Chonapatcc&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
   
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
