@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://github.com/Chonapatcc" target="_blank">
         <p align="center">
-    <img alt="Coding" width="200" src="https://media1.tenor.com/m/9UkMO73T_W4AAAAC/anna-yanami-yanami-anna.gif">
+    <img alt="Coding" width="400" src="https://i.pinimg.com/originals/5d/95/3e/5d953e8a4d971167fd586b3a16881ed8.gif">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
     <a href="https://github.com/Chonapatcc" target="_blank">
@@ -36,13 +36,41 @@
     </a>
   
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  -->
 
-[![My Skills](https://skillicons.dev/icons?i=bash,blender,c,cs,cpp,css,discord,docker,eclipse,figma,flutter,gcp,git,github,gmail,gradle,html,idea,instagram,java,js,kali,kotlin,linkedin,linux,lua,md,maven,notion,npm,opencv,ps,powershell,py,pytorch,robloxstudio,stackoverflow,svg,tensorflow,twitter,ubuntu,unity,unreal,vim,visualstudio,vscode,windows&perline=13)](#)
+<!-- [![My Skills](https://skillicons.dev/icons?i=bash,blender,c,cs,cpp,css,discord,docker,eclipse,figma,flutter,gcp,git,github,gmail,gradle,html,idea,instagram,java,js,kali,kotlin,linkedin,linux,lua,md,maven,notion,npm,opencv,ps,powershell,py,pytorch,robloxstudio,stackoverflow,svg,tensorflow,twitter,ubuntu,unity,unreal,vim,visualstudio,vscode,windows&perline=13)](#)  -->
+## 🚀 Technical Skills
+
+- **Programming:** Python (Flask, FastAPI), Java, C, C++, SQL, JavaScript (HTML/CSS)
+- **ML & Deep Learning:** TensorFlow, PyTorch, Keras, Scikit-learn, Hugging Face Transformers
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, SciPy
+- **Computer Vision:** OpenCV, PIL
+- **NLP:** NLTK, SpaCy
+- **Cloud Platforms:** Google Cloud, Huawei Cloud, Docker
+- **Tools & Ecosystems:** Git, GitHub, HPC (Lanta, SiamAI), Linux, Vast.ai, Kaggle, Google Colab, API, Automation
+
+## 🛠️ Additional Skills
+
+- Figma (UI/UX Design)
+- Librosa (Audio Processing)
+- MySQL (Databases)
+
+## 💬 Languages
+
+- Thai (Native)
+- English (Intermediate)
+
+## 🧠 Soft Skills
+
+- Problem-Solving
+- Time Management
+- Fast Learner
+
+
 
 <div align="center">
   <a href="https://open.spotify.com/track/5urVDJJONveZJ7QVkmeIDx?si=b903500ba3d44f8f">
-    <img src="https://44.media.tumblr.com/ec6f11a4a1eddc30313e002541383908/tumblr_pbx1f4bIXH1xa91r6o1_500.gif" alt="Spotify Link" width="300"> 
+    <img alt="Coding" width="400", src = "https://media.tenor.com/53Z9TeE8sZcAAAAM/dantsu-flame-umamusume.gif" > 
   </a>
 </div>
 
